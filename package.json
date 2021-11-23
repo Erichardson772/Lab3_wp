@@ -1,0 +1,9 @@
+{
+  "name": "wp-lab3",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
